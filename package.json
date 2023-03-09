@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ihor-Slastonov/go-it-node-hw-01.git"
+    "url": "git+https://github.com/ITslaver/-go-it-node-hw-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ihor-Slastonov/go-it-node-hw-01/issues"
+    "url": "https://github.com/ITslaver/-go-it-node-hw-01/issues"
   },
-  "homepage": "https://github.com/Ihor-Slastonov/go-it-node-hw-01#readme",
+  "homepage": "https://github.com/ITslaver/-go-it-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
